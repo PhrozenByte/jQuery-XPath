@@ -1,6 +1,6 @@
 /**
  * xpath plugin for jQuery
- * Version 1.0 (build 2013-03-15)
+ * Version 1.1 (build 2013-08-07)
  * 
  * Returns the xpath of an given element.
  * 
@@ -58,9 +58,6 @@
 	$.fn.xpath = function(forceTree) {
 		if(this.length == 0) {
 			return null;
-		} else if(this.length > 1) {
-			$.error("You shouln't call jQuery.xpath() with multiple elements");
-			return this;
 		}
 		
 		var element = this.get(0);

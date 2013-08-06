@@ -1,5 +1,5 @@
-jQuery-XPath
-============
+jQuery-XPath 1.1
+================
 Determine the XPath of an element with jQuery.
 
 Usage
