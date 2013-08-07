@@ -22,4 +22,4 @@ $('form input[type=email]').xpath(true);
 
 Copyright & License
 -------------------
-The functionality of jQuery-XPath is pretty much an abstract of [Firebug](https://getfirebug.com/)s [extension/content/firebug/lib/xpath.js](https://github.com/firebug/firebug/blob/firebug-1.11.1/extension/content/firebug/lib/xpath.js) (Version 1.11.1). Copyright remains by the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/). Accordingly this plugin is licensed under 3-clause BSD. See the [LICENSE.md](../blob/master/LICENSE) for details.
+The functionality of jQuery-XPath is pretty much an abstract of [Firebug](https://getfirebug.com/)s [extension/content/firebug/lib/xpath.js](https://github.com/firebug/firebug/blob/firebug-1.11.1/extension/content/firebug/lib/xpath.js) (Version 1.11.1). Copyright remains by the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/). Accordingly this plugin is licensed under 3-clause BSD. See the [LICENSE](LICENSE) file for details.
